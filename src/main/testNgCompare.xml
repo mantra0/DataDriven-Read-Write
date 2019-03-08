@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SUITE">
+    <test name="ComapringDate">
+        <classes>
+            <class name="run"/>
+        </classes>
+    </test>
+</suite>
